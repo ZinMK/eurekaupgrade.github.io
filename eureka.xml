@@ -6,10 +6,10 @@
     <description>App updates for MyApp</description>
     <language>en-us</language>
     <item>
-      <title>Version 1.0.2</title>
+      <title>Version 1.0.1</title>
       <description>New features and bug fixes.</description>
       <pubDate>Wed, 13 Jun 2024 12:00:00 +0000</pubDate>
-      <enclosure url="https://apps.apple.com/us/app/eureka-collaborative-study/id6470950630" sparkle:version="1.0.2" sparkle:shortVersionString="1.0.2" />
+      <enclosure url="https://apps.apple.com/us/app/eureka-collaborative-study/id6470950630" sparkle:version="1.0.1" sparkle:shortVersionString="1.0.1" />
     </item>
   </channel>
 </rss>
