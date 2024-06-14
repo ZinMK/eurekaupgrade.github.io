@@ -6,16 +6,10 @@
     <description>App updates for MyApp</description>
     <language>en-us</language>
     <item>
-      <title>Version 1.4.0</title>
+      <title>Version 1.0.1</title>
       <description>New features and bug fixes.</description>
       <pubDate>Wed, 13 Jun 2024 12:00:00 +0000</pubDate>
       <enclosure url="https://apps.apple.com/us/app/eureka-collaborative-study/id6470950630" sparkle:version="1.4.0" sparkle:shortVersionString="1.4.0" />
-    </item>
-    <item>
-      <title>Version 1.2.0</title>
-      <description>Performance improvements.</description>
-      <pubDate>Tue, 10 May 2024 12:00:00 +0000</pubDate>
-      <enclosure url="https://example.com/myapp-1.2.0.apk" sparkle:version="1.2.0" sparkle:shortVersionString="1.2.0" />
     </item>
   </channel>
 </rss>
